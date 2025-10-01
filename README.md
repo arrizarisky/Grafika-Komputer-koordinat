@@ -1,1 +1,1 @@
-# Grafika-Komputer-koordinat
+# Grafika-Komputer
